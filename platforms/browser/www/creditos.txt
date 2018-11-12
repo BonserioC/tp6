@@ -1,0 +1,6 @@
+original:
+https://codepen.io/HiroAgustin/pen/ArfhH
+
+modificaciones:
+tamaño de las casillas
+traduccion al español
