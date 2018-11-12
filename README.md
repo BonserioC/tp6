@@ -1,5 +1,4 @@
-# A Blank PhoneGap App
-
+# TaTeTi PhoneGap :D
 
 ## Usage
 
